@@ -1,15 +1,13 @@
-<script setup>
-import { ref } from 'vue'
-
-defineProps({
-  msg: String,
-})
-
-
+<script>
+export default {
+}
 </script>
 
 <template>
-  <h3>{{ msg }}</h3>
+  <h3>La mia prima app con vite</h3>
 </template>
+
+<style scoped>
+</style>
 
 

@@ -1,6 +1,20 @@
+<script>
+export default {
+}
+</script>
+
 <template>
     <div class="jumbotron">
-      <h1>Welcome to Vite!</h1>
-      <p>Qui ci andrà l'immagine.</p>
+      <a href="https://vitejs.dev" target="_blank">
+        <img src="/vite.svg" class="logo" alt="Vite logo" />
+      </a>
+      <a href="https://vuejs.org/" target="_blank">
+        <img src="../assets/vue.svg" class="logo vue" alt="Vue logo" />
+      </a>
     </div>
-  </template>
+</template>
+
+<style scoped>
+</style>
+
+
